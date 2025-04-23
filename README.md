@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PetLife 🐾
 
-## Getting Started
+Sistema web desenvolvido para uma clínica veterinária, oferecendo serviços de atendimento veterinário, farmácia e doações.
 
-First, run the development server:
+## 🚀 Tecnologias Utilizadas
 
+- [Next.js 14](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## 💻 Pré-requisitos
+
+Antes de começar, verifique se você tem os seguintes requisitos:
+
+- Node.js (versão 18 ou superior)
+- npm ou yarn
+
+## 🔧 Instalação
+
+1. Clone o repositório:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/vitorpaiv4/clinica-pet.git
+cd clinica-pet
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Instale as dependências:
+```bash
+npm install
+# ou
+yarn install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Inicie o servidor de desenvolvimento:
+```bash
+npm run dev
+# ou
+yarn dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Acesse [http://localhost:3000](http://localhost:3000) no seu navegador.
 
-## Learn More
+## 📱 Funcionalidades
 
-To learn more about Next.js, take a look at the following resources:
+- ✅ Página inicial com informações sobre a clínica
+- ✅ Seção de serviços veterinários
+- ✅ Área de farmácia
+- ✅ Sistema de doações
+- ✅ Design responsivo
+- ✅ Interface moderna e amigável
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎨 Layout
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+O projeto possui um design moderno e responsivo, focado na experiência do usuário. As cores e elementos visuais foram escolhidos para transmitir confiança e profissionalismo.
 
-## Deploy on Vercel
+## 📝 Licença
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 👨‍💻 Desenvolvedor
+
+Desenvolvido com ❤️ por [Vitor Paiva](https://github.com/vitorpaiv4)
+
+---
+
+## 🔄 Deploy
+
+O projeto pode ser facilmente implantado na [Plataforma Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
+
+Para mais informações sobre deploy, consulte a [documentação de deploy do Next.js](https://nextjs.org/docs/app/building-your-application/deploying).
