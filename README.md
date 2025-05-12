@@ -63,8 +63,3 @@ Desenvolvido com ❤️ por [Vitor Paiva](https://github.com/vitorpaiv4)
 
 ---
 
-## 🔄 Deploy
-
-O projeto pode ser facilmente implantado na [Plataforma Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
-
-Para mais informações sobre deploy, consulte a [documentação de deploy do Next.js](https://nextjs.org/docs/app/building-your-application/deploying).
